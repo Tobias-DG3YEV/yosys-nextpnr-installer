@@ -13,7 +13,7 @@ Install it by executing the following command:
 sudo apt install -f ./nextpnr-xilinx-*_amd64.deb
 ```
 
-After installation reboot or run the following command to st all needed search paths.
+After installation reboot or run the following command to set all needed search paths to your enviroment variables.
 ```
 source /etc/profile.d/10-nextpnr-xilinx.sh
 ```
