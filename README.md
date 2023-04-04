@@ -6,11 +6,11 @@ use this script to download the matching version 0.17 of Yosys from github, buil
 yosys-installer.sh
 ```
 
-nextpnr-xilinx-1.0-1_amd64.deb contains the amd64 compiled version of nextpnr-xilinx and all needed files of the prjxray project
+nextpnr-xilinx-*_amd64.deb contains the amd64 compiled version of nextpnr-xilinx and all needed files of the prjxray project
 
 Install it by executing the following command:
 ```
-sudo apt install -f ./nextpnr-xilinx-1.0-1_amd64.deb
+sudo apt install -f ./nextpnr-xilinx-*_amd64.deb
 ```
 
 After installation reboot or run the following command to st all needed search paths.
