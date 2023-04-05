@@ -17,3 +17,9 @@ After installation reboot or run the following command to set all needed search 
 ```
 source /etc/profile.d/10-nextpnr-xilinx.sh
 ```
+
+openFPGAloader-installer downloads trabucayre's openFPGAloader from github, compiles and installs it.
+
+```
+openFPGAloader-installer.sh
+```
