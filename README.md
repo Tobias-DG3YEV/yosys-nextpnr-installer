@@ -1,4 +1,4 @@
-# yosys-nextpnr-installer
+# yosys-nextpnr-installer for DEBIAN Linux
 Here you find helper scripts and Debian packages to set up a open source FPGA toolchain with Yosys and nextpnr-xilinx
 
 use this script to download the matching version 0.17 of Yosys from github, build and install it.
