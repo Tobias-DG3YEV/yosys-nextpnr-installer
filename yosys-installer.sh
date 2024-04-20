@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #simple install script for YOSYS and itss dependencies
 
 sudo apt-get -y install build-essential clang bison flex \
